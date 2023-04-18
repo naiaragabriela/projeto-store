@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QDpDzmpi80RsA6jI2XlW2mpncBNifzHooW8yjr7dBSq+le9eBLNd6YtQFy60sM4MlG5Y3ePc4Zj7Uaaa6gi53w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adm\\source\\repos\\projeto-store\\src\\Models\\Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adm\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
